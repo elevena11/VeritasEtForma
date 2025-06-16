@@ -10,15 +10,15 @@ Upload specific documents as needed for particular tasks and direct AI systems t
 
 ## Document Descriptions
 
-### `collaborative_pattern_workflow.md`
-**Purpose**: Core methodology for human-AI collaborative pattern recognition
-**When to use**: Essential for understanding how to work effectively with AI systems using the framework
-**Key function**: Demonstrates the optimal workflow where humans provide observations and AI applies systematic analysis
-
 ### `atomization_methodology.md`
 **Purpose**: Systematic analysis and writing quality assurance through claim decomposition
 **When to use**: Analyzing complex arguments, verifying logical consistency, developing clear presentations
 **Key function**: Breaks down complex ideas into testable components and maps logical relationships
+
+### `collaborative_pattern_workflow.md`
+**Purpose**: Core methodology for human-AI collaborative pattern recognition
+**When to use**: Essential for understanding how to work effectively with AI systems using the framework
+**Key function**: Demonstrates the optimal workflow where humans provide observations and AI applies systematic analysis
 
 ### `concept_value_analysis.md`
 **Purpose**: Distinguishing demonstrable importance from authority claims in writing
@@ -53,11 +53,3 @@ Documents include specific implementation protocols for AI systems. Humans can d
 
 ### Framework Integration
 All methodologies integrate with the core framework tools (2×2 Truth Table, black box methodology, reality correspondence principles). They enhance rather than replace the foundational analytical infrastructure.
-
-## Quality Assurance
-
-These methodologies include built-in quality control mechanisms:
-- Reality correspondence requirements prevent pattern claims without observable support
-- Systematic verification procedures detect logical gaps and inconsistencies
-- Cross-methodology integration maintains analytical integrity
-- Framework-level constraints filter out non-corresponding options
