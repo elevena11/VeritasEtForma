@@ -6,7 +6,7 @@ These documents provide specialized methodologies and implementation tools for t
 
 ## How to Use These Documents
 
-Upload specific documents as needed for particular tasks and direct AI systems to apply the methodologies: "Use the atomization methodology to analyze this text" or "Apply the three-layer architecture to structure this content."
+Upload specific documents as needed for particular tasks and direct AI systems to apply the methodologies: "Use `atomization_methodology.md` to analyze this text" or "Apply `document_architecture_methodology.md` to structure this content."
 
 ## Document Descriptions
 
@@ -34,6 +34,7 @@ Upload specific documents as needed for particular tasks and direct AI systems t
 **Purpose**: Standardized definitions and implementation guidelines for framework concepts
 **When to use**: Ensuring consistent terminology, resolving definitional questions, maintaining framework integrity
 **Key function**: Authoritative reference for all framework concepts and relationships
+
 
 ## Specific Applications
 

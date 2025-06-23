@@ -28,7 +28,6 @@ Upload any additional framework documents based on your analytical needs. Refere
 - **atomization_methodology.md** - For systematic claim verification
 - **collaborative_pattern_workflow.md** - For understanding optimal collaboration patterns
 - **concept_value_analysis.md** - For writing quality improvement
-- **vef_set_theory_enhancement.md** - For more systematic AI application of framework principles
 - Your own documents for analysis
 
 #### Step 4: Begin Pattern Recognition
