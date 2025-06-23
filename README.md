@@ -122,13 +122,3 @@ Optimized for human intuition enhanced by AI systematic processing, rather than 
 
 ## Critical Thinking Requirement
 While the framework includes systematic quality control mechanisms, users should maintain critical evaluation of results. The framework enhances rather than replaces critical thinking - treat results as systematically organized analysis that still requires verification.
-
-## Getting Started
-
-1. **Download**: Clone or download this repository
-2. **Upload to AI**: Upload `VeritasEtForma.md` to your preferred AI system
-3. **Learn Collaboration**: Read `Support_docs/collaborative_pattern_workflow.md` for guidance on effective human-AI pattern recognition workflow
-4. **Start Analyzing**: Share your observations and receive systematic enhancement
-5. **Expand Capability**: Add specialized support documents as needed for specific analytical tasks
-
-The framework is designed for immediate functionality while providing pathways for deeper engagement based on your needs and interests.

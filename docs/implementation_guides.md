@@ -1,3 +1,5 @@
+**v1.0**
+
 # Veritas et Forma Framework: Implementation Guides
 
 ## Quick Start: Basic Framework Usage
