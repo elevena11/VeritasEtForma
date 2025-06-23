@@ -9,9 +9,10 @@ The Veritas et Forma framework functions as **analytical infrastructure** that t
 ## Quick Start
 
 1. **Upload the framework** (`VeritasEtForma.md`) to your AI system
-2. **Learn collaboration approach** (`Support_docs/collaborative_pattern_workflow.md`) 
-3. **Begin immediately**: Share your observations and receive systematic enhancement
-4. **Add specialized tools** from Support_docs as needed for specific tasks
+2. **Follow implementation guide** (`docs/implementation_guides.md`) for step-by-step setup and verification
+3. **Learn collaboration approach** (`support_docs/collaborative_pattern_workflow.md`) 
+4. **Begin immediately**: Share your observations and receive systematic enhancement
+5. **Add specialized tools** from support_docs as needed for specific tasks
 
 ## Three Engagement Levels
 
@@ -35,40 +36,6 @@ The Veritas et Forma framework functions as **analytical infrastructure** that t
 - **Significant time investment, comprehensive understanding**
 
 **All three approaches provide access to the same analytical capabilities.** Your choice depends on available time, learning preference, usage frequency, and verification needs.
-
-## How It Works: A Concrete Example
-
-### Starting Point: Informal Observation
-Someone notices: *"Large organizations seem to get more corrupt over time, especially when leadership changes. Each new leader seems less capable than the last, and eventually the whole system falls apart."*
-
-### Framework Application Process
-The framework transforms this informal insight into comprehensive analysis:
-
-**Pattern Organization**: Converts scattered observations into systematic structure
-- Two types of corruption (intentional vs. systemic drift)
-- Why systems evolve toward the less sophisticated type
-- How leadership transitions create predictable vulnerabilities
-
-**Systematic Expansion**: Generates multiple analytical perspectives
-- Temporal analysis across generational boundaries
-- Selection pressure mechanisms favoring incompetence
-- Resource depletion patterns and buffer exhaustion
-- Observable indicators for predicting institutional failure
-
-**Verification Methods**: Creates ways to test and validate insights
-- Historical comparison protocols
-- Predictive indicator systems
-- Timeline estimation methods
-- Cross-institutional pattern verification
-
-**Transmission Capability**: Enables clear communication to others
-- Systematic presentation structure
-- Technical vocabulary for precise discussion
-- Logical progression from simple to complex
-- Multiple entry points for different audiences
-
-### End Result: Enhanced Analysis
-The same intuitive insight becomes comprehensive institutional analysis with clear mechanisms, predictive capability, verification approaches, and systematic framework for analyzing similar patterns in other domains.
 
 ## Collaborative Design Model
 
@@ -153,41 +120,8 @@ Uses disciplined analytical boundaries to filter out noise and maintain precisio
 ### Collaborative Intelligence Model
 Optimized for human intuition enhanced by AI systematic processing, rather than replacing human judgment.
 
-## Quality Assurance
-
-### Built-In Quality Control
-The framework includes systematic quality control that helps detect flawed pattern recognition:
-
-**Contradiction Detection**: If initial observations contain internal contradictions, framework analysis reveals inconsistencies rather than amplifying them.
-
-**Reality Alignment Testing**: Patterns that don't correspond to observable evidence get filtered out during systematic analysis.
-
-**Consistency Verification**: Framework tools cross-check different aspects of pattern recognition to identify misalignments.
-
-**Epistemic Boundary Recognition**: The system helps identify when claims exceed what observable patterns justify.
-
-### Critical Thinking Requirement
+## Critical Thinking Requirement
 While the framework includes systematic quality control mechanisms, users should maintain critical evaluation of results. The framework enhances rather than replaces critical thinking - treat results as systematically organized analysis that still requires verification.
-
-## Expected Benefits
-
-### For Individual Understanding
-- Transform vague intuitions into clear insights
-- Develop systematic approaches to pattern analysis
-- Create reliable methods for testing observations
-- Build vocabulary for discussing complex patterns
-
-### For Communication
-- Share insights clearly with others who haven't had your experiences
-- Overcome language barriers when discussing abstract patterns
-- Create systematic presentations that others can verify independently
-- Bridge different perspectives through shared analytical structure
-
-### For Practical Application
-- Predict pattern development across time and contexts
-- Identify early warning indicators for pattern recognition
-- Develop intervention strategies based on systematic understanding
-- Apply insights across similar situations and domains
 
 ## Getting Started
 
