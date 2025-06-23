@@ -1,3 +1,5 @@
+**v1.0**
+
 # Veritas et Forma: Technical Framework Reference
 
 ## Purpose

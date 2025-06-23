@@ -1,3 +1,5 @@
+**v1.0**
+
 # Collaborative Pattern Recognition Workflow
 
 ## The Natural Analysis Flow

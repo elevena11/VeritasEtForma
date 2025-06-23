@@ -1,3 +1,5 @@
+**v1.0**
+
 # Document Architecture for Cognitive Transmission
 
 ## Purpose and Applications

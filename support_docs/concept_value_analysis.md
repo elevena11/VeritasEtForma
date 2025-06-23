@@ -1,3 +1,5 @@
+**v1.0**
+
 # Concept Value Analysis: Demonstrable Importance vs. Authority Claims
 
 ## Purpose and Applications

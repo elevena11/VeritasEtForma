@@ -25,6 +25,7 @@ Thumbs.db
 *.tmp
 *.temp
 *.log
+work/
 
 # AI assistant files
 CLAUDE.md
