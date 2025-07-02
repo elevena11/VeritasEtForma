@@ -1,4 +1,4 @@
-**v1.0**
+**v1.1**
 
 # Veritas et Forma Framework: Implementation Guides
 
@@ -8,7 +8,7 @@
 - AI system with file upload capability (Claude, ChatGPT, etc.)
 - VeritasEtForma.md framework document
 
-### 4-Step Basic Workflow
+### 6-Step Basic Workflow
 
 #### Step 1: Upload Framework
 Upload `VeritasEtForma.md` to your AI system
@@ -36,7 +36,24 @@ Upload any additional framework documents based on your analytical needs. Refere
 Start your analytical work:
 - "I've noticed this pattern..."
 - "Help me analyze this situation using the framework..."
-- "Apply the 2×2 Truth Table to this behavior..."
+
+#### Step 5: Contextual Gap Filling
+Review the AI's analysis output within the same conversation and identify where assumptions were made:
+- "I see you assumed X, but I didn't provide that information"
+- "You filled in Y automatically - here's what I actually observed"  
+- "This conclusion goes beyond what I stated - let me clarify"
+- Look for places where vague anchor words may have led to inappropriate assumption selection
+- Refine vocabulary to guide AI toward the correct contextual domain
+- Provide missing context and correct misaligned assumptions
+
+#### Step 6: Transmission Verification Test
+Test whether the refined analysis transmits clearly across cognitive boundaries:
+- Start a completely new AI session with zero conversational context
+- Upload only the refined analysis from Step 5
+- Ask: "What questions do you have about this analysis? What seems unclear or unsupported?"
+- If the fresh AI has questions or identifies gaps, return to Step 5: upload VeritasEtForma.md + your refined analysis and continue clarification process
+- If the fresh AI demonstrates complete understanding with zero questions, the analysis achieves clean cognitive transmission
+- Continue iterating between Steps 5 and 6 until clean transmission is achieved
 
 ---
 
@@ -82,6 +99,8 @@ Generate your pattern analysis using the framework, then apply verification:
 - Complete logical flow from observations to conclusions"
 ```
 
+**The verification output reveals the logical structure, gaps, and inconsistencies in your original analysis. This analytical report is the result - showing exactly where logical problems exist in the source material.**
+
 ---
 
 ## Framework Self-Verification Example
@@ -121,6 +140,8 @@ Then continue:
 - Complete logical flow from core principles to implementation"
 ```
 
+**This verification analysis reveals the framework's logical structure, any internal inconsistencies, and the quality of reasoning chains. The output shows exactly how well the framework maintains logical coherence across all its components.**
+
 ---
 
 ## Working with the Framework
@@ -139,3 +160,17 @@ The AI should adapt its explanations to your level and help you understand conce
 ### Getting Started
 
 The simplest approach is to upload the framework and immediately begin with your observations: "I've noticed this pattern..." The AI will apply the framework tools and explain what it's doing as it works. This creates a natural learning process where you discover framework concepts through seeing them applied to your own analytical challenges.
+
+### The Iterative Learning Process
+
+Through Steps 5 and 6, you'll naturally develop:
+
+**Pattern Recognition Skills**: Learning to identify where your natural communication patterns leave gaps or enable misinterpretation
+
+**Assumption Awareness**: Recognizing how AI systems fill gaps and learning to guide them toward appropriate contextual frameworks
+
+**Transmission Effectiveness**: Developing ability to create analysis that works across different cognitive systems and contexts
+
+**Collaborative Intelligence**: Experiencing how human observation combined with systematic AI analysis produces enhanced understanding
+
+The framework serves as infrastructure for this collaborative learning process, where both human and AI capabilities are enhanced through the interaction rather than simply applying tools to problems.
