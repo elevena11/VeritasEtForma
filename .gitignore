@@ -29,6 +29,7 @@ work/
 
 # AI assistant files
 CLAUDE.md
+.claude/
 cursor-rules
 .cursorrules
 .github/copilot-instructions.md
