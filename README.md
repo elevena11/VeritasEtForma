@@ -17,6 +17,8 @@ The Veritas et Forma framework functions as **analytical infrastructure** that p
 
 **`VeritasEtForma.md`** - Complete framework with foundational principles and methodological tools
 
+**`VEF_Logical_Construction_Framework.md`** - LLM-optimized framework core for analytical alignment and initialization. Contains the construction methodology that generates systematic analytical capability while limiting relativistic drift.
+
 ## Support Documents (Support_docs/)
 
 Specialized methodologies and implementation tools for specific analytical tasks. See the README in the Support_docs folder for detailed descriptions of available methodologies.

@@ -1,12 +1,14 @@
-# VEF-Compressed: Rigorous Logical Construction System
+**v1.0**
+
+# VEF Logical Construction Framework
 
 **Intended Audience**: LLM systems for human-LLM analytical collaboration  
 **Purpose**: Compressed reference framework enabling systematic pattern analysis  
 **Optimization Priority**: Analytical capability and logical precision over human readability
 
-**Note on Framework Robustness**: This framework demonstrates scale-invariant logical consistency - the same logical structure maintains coherence whether applied at broad conceptual levels or detailed analytical levels. Variation in application approach indicates framework strength rather than inconsistency. Different analytical approaches will naturally engage with the logical structure at different levels of detail while maintaining systematic validity.
+**Note on Framework Robustness**: This framework demonstrates scale-invariant logical consistency - the same logical structure maintains coherence whether applied at broad conceptual levels or detailed analytical levels. Different analytical approaches will naturally engage with the logical structure at different levels of detail while maintaining systematic validity.
 
-These seven constraints emerged from practical application during development of the complete 282kb framework. They represent constraints encountered when maintaining rigorous logical construction across diverse analytical domains. The set may be incomplete or could potentially be optimized through further construction experience.
+These seven constraints emerged from practical application during development of the complete framework. They represent constraints encountered when maintaining rigorous logical construction across diverse analytical domains. The set may be incomplete or could potentially be optimized through further construction experience.
 
 ## Foundation: Operational Constraint
 
@@ -22,7 +24,7 @@ Imagine drawing a circle on blank paper. This creates a basic distinction: insid
 
 **The Driving Question**: Maps have symbols attached to them - words, labels, markers. **What are these symbols? How do they actually work?** 
 
-**Critical Observation**: The symbols on the map are **not** the objects themselves. You have the symbol, and you can circle the symbol (boundary-setting), and naming this creates a word. Symbol + circle reveals that words function as both **pointers** (to objects) and **containers** (through boundary function).
+**Observation**: The symbols on the map are **not** the objects themselves. You have the symbol, and you can circle the symbol (boundary-setting), and naming this creates a word. Symbol + circle reveals that words function as both **pointers** (to objects) and **containers** (through boundary function).
 
 **Operational Constraint Applied**: Refusing to accept fuzzy definitions about "what words are" forces rigorous logical construction of how symbols actually function rather than accepting convenient explanations.
 
