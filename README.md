@@ -19,6 +19,26 @@ The Veritas et Forma framework functions as **analytical infrastructure** that p
 
 **`VEF_Logical_Construction_Framework.md`** - LLM-optimized framework core for analytical alignment and initialization. Contains the construction methodology that generates systematic analytical capability while limiting relativistic drift.
 
+```
+"Please adopt the methodology in VEF_Logical_Construction_Framework.md and demonstrate your understanding of its concepts"
+```
+
+## LLM Initialization Requirements
+
+**Do NOT use**: "Read this framework and..." or "Analyze this methodology..."
+
+- Creates academic analysis mode with relativistic positioning
+- Triggers evaluative language that violates framework constraints
+- Treats VEF as theoretical content rather than operational methodology
+
+**Required initialization**: "Adopt this as your analytical methodology and..." or "Implement this framework as your operational approach..."
+
+- Creates implementation mode with direct operational integration
+- Maintains cold neutral tone requirements
+- Positions framework as active analytical infrastructure
+
+**Why this matters**: VEF is designed as collaborative analytical infrastructure, not academic content for review. Wrong initialization prevents intended functionality.
+
 ## Support Documents (Support_docs/)
 
 Specialized methodologies and implementation tools for specific analytical tasks. See the README in the Support_docs folder for detailed descriptions of available methodologies.

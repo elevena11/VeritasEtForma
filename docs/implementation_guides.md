@@ -17,7 +17,7 @@ Upload `VeritasEtForma.md` to your AI system
 Use this prompt to confirm the AI has properly loaded the framework:
 
 ```
-"Please read the VeritasEtForma.md framework and provide your understanding of:
+"Please adopt the VeritasEtForma.md framework as your analytical methodology and demonstrate your understanding of:
 1. Its core function as a cognitive transmission protocol
 2. The 2×2 Truth Table methodology and its four quadrants  
 3. The 'reality creates words' foundation principle
