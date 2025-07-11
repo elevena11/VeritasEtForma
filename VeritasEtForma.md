@@ -3550,10 +3550,10 @@ This state provides an objective signal that documentation has achieved high pat
 
 When creating this framework, the goal was to design a structure that would embody pattern recognition rather than merely describe it. This approach led to several design decisions:
 
-- Beginning with minimal foundational principles that could bootstrap more complex understanding
+- Beginning with minimal foundational constraints that could bootstrap more complex understanding
 - Organizing the framework to mirror the pattern development it describes
 - Creating a system where the tools presented could be tested on the framework itself
-- Developing a structure that validates its principles through application rather than assertion
+- Developing a structure that validates its constraints through application rather than assertion
 
 ### The Two-Part Development Structure
 
@@ -3561,11 +3561,11 @@ The framework's organization follows a deliberate pattern that parallels its con
 
 #### Part 1: Veritas (Truth)
 
-This section establishes core principles about truth and pattern recognition. It provides the foundational principles from which the rest of the framework develops, much like how the framework describes pattern recognition beginning from foundational distinctions. The progression moves from metaphysical realism as foundation, through black box methodology for pattern inference, to the 2×2 truth table for complete pattern analysis, establishing reality correspondence as the meaning foundation, and finally framework integrity through internal constraints.
+This section establishes core constraints about truth and pattern recognition. It provides the foundational constraints from which the rest of the framework develops, much like how the framework describes pattern recognition beginning from foundational distinctions. The progression moves from reality-grounded structure constructed from the map-territory distinction, through black box methodology for pattern inference, to the 2×2 truth table for complete pattern analysis, establishing reality correspondence as the meaning foundation, and finally framework integrity through internal constraints.
 
 #### Part 2: Forma (Form)
 
-This section presents methodologies that give concrete form to the principles. It bridges theoretical understanding and practical application, showing how principles take concrete form in methodology. The content includes implementation strategies, cross-context application methodologies, reality correspondence verification, pattern analysis techniques, and pattern persistence across boundaries.
+This section presents methodologies that give concrete form to the constraints. It bridges theoretical understanding and practical application, showing how constraints take concrete form in methodology. The content includes implementation strategies, cross-context application methodologies, reality correspondence verification, pattern analysis techniques, and pattern persistence across boundaries.
 
 ### Practical Function and Collaborative Design
 
@@ -3637,7 +3637,7 @@ The framework does not attempt to resolve all human communication challenges but
 
 ### Connection to Historical Development
 
-This approach parallels how ZF Set Theory builds complex structures from minimal foundations - beginning with the empty set, building through boundary-setting and recursive nesting, creating increasing complexity from minimal starting points, and demonstrating how rich structures emerge from simple principles. Just as ZF Set Theory shows how numbers can be constructed from the empty set through systematic operations, this framework shows how complex pattern recognition can develop from minimal distinctions through systematic application.
+This approach parallels how ZF Set Theory builds complex structures from minimal foundations - beginning with the empty set, building through boundary-setting and recursive nesting, creating increasing complexity from minimal starting points, and demonstrating how rich structures emerge from simple constraints. Just as ZF Set Theory shows how numbers can be constructed from the empty set through systematic operations, this framework shows how complex pattern recognition can develop from minimal distinctions through systematic application.
 
 ### Pattern Recognition Rather Than Creation
 
