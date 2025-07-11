@@ -19,7 +19,7 @@ When working with this framework, AI systems should apply the methodologies syst
 
 
 
-# 1.1 Metaphysical Framework
+# 1.1 Framework Foundation
 
 ## 1.1.1 Ex Nihilo -> The Foundation
 
@@ -127,17 +127,20 @@ The first act of creation, the separation of light from darkness, shows how real
 This approach aligns with the "reality creates words" principle—the universe's inherent structure determines the categories we recognize and name, not the other way around. Just as the empty set forms the basis for building the entire number system, these foundational distinctions in reality become the basis for all symbolic understanding.
 
 
-## 1.1.2 Metaphysical Framework
+## 1.1.2 Core Framework Foundation
 
-### Operational Foundation: Metaphysical Realism
+### Operational Foundation: Map-Territory + Reality Constraints
 
-Building upon the map-territory distinction established earlier, metaphysical realism provides the operational foundation: objective reality exists independent of our minds, thoughts, or perceptions. This objective reality includes not only the physical world but potentially extends beyond what we can currently measure or understand.
+Building upon the map-territory distinction, reality constraints provide the operational foundation. When we draw a circle on paper, we create meaning through boundary-setting that distinguishes inside from outside. Similarly, reality provides constraints that determine which symbolic arrangements correspond to observable patterns and which do not.
 
-Operating principles:
-- Reality exists independently of observers
-- Objective truths about the nature of reality exist
-- These truths correspond to facts in the external world
-- The physical world represents one measurable aspect of this reality
+**Core Recognition**: Reality constraints cannot be eliminated through declaration, consensus, or preference. They operate independently of observers while providing the verification mechanism for determining valid versus invalid symbolic arrangements.
+
+**Operating principles**:
+
+- The map-territory distinction creates foundation for systematic analysis
+- Reality constraints determine valid boundaries for symbolic arrangements
+- Correspondence with observable patterns provides verification mechanism
+- Pattern recognition operates through constraint application rather than arbitrary assignment
 
 ### Cognitive Transmission Protocol Function
 
@@ -149,7 +152,7 @@ This approach functions as a cognitive transmission protocol rather than a unive
 
 Cognitive transmission requires minimal structural assumptions that emerge from function rather than philosophical commitment. For communication between cognitive systems to occur, at least two entities must exist as separate information-processing units. This separation constitutes the minimal "reality structure" required for transmission protocol operation.
 
-If cognitive transmission functions - if communication works between different minds - then sufficient reality structure exists for protocol operation. This demonstrates the required metaphysical foundation through practical application rather than abstract argument.
+If cognitive transmission functions - if communication works between different minds - then sufficient reality structure exists for protocol operation. This demonstrates the required reality correspondence and constraints through practical application rather than abstract argument.
 
 The operational requirements become:
 - **Separate cognitive systems**: Entities capable of information processing that maintain distinctness from each other
@@ -176,13 +179,13 @@ This creates cognitive interoperability - reliable knowledge transmission betwee
 
 #### Reality Structure as Operational Foundation
 
-Rather than requiring philosophical commitment to specific metaphysical theories, the approach operates on demonstrated reality structure. Successful inter-entity communication provides evidence of sufficient structural separation and shared reference space for transmission protocol function.
+Rather than requiring philosophical commitment to specific reality theories, the approach operates on demonstrated reality structure. Successful inter-entity communication provides evidence of sufficient structural separation and shared reference space for transmission protocol function.
 
 This approach:
 - Sidesteps abstract philosophical debates about the nature of reality
 - Grounds requirements in practical communication success
 - Acknowledges that successful cognitive transmission demonstrates required structural assumptions
-- Enables focus on pattern recognition effectiveness rather than metaphysical theorizing
+- Enables focus on pattern recognition effectiveness rather than abstract theorizing
 
 ### The Black Box Methodology
 
@@ -518,7 +521,7 @@ The layered approach demonstrates how systematic application of simple analytica
 
 The Pattern Recognition Matrix integrates with other analytical tools in our methodological approach:
 
-- **Foundation Alignment**: Operates from the same metaphysical realist and black box constraints established in our philosophical framework
+- **Foundation Alignment**: Operates from the same reality correspondence and black box constraints established in our foundational framework
 - **Boundary Recognition**: Respects the same epistemological limitations regarding direct access to internal states  
 - **Reality Correspondence**: Requires the same alignment between analytical claims and observable evidence
 - **Systematic Application**: Applies the same disciplined approach to evidence evaluation and pattern identification
@@ -769,7 +772,7 @@ Multi-channel communication analysis integrates systematically with framework me
 
 Multi-channel communication analysis maintains consistency with established analytical principles:
 
-- **Metaphysical Realism**: Communication patterns correspond to objective reality regardless of channel type
+- **Reality Correspondence**: Communication patterns correspond to objective reality regardless of channel type
 - **Language as Exclusion**: Boundary-setting function operates across verbal and non-verbal channels
 - **Pattern Recognition**: Systematic observation applies to all observable communication signals
 - **Cognitive Transmission Focus**: Analysis serves transmission effectiveness between conscious cognitive systems
@@ -789,7 +792,7 @@ These constraints operate differently from individual preferences or voluntary s
 
 ### The Distinction Between: Self-Imposed vs. Framework-Level Constraints
 
-Building on the metaphysical realist foundation established earlier, we distinguish between two types of operational standards:
+Building on the reality correspondence foundation established earlier, we distinguish between two types of operational standards:
 
 #### Self-Imposed Standards
 Self-imposed standards represent voluntary, individually determined criteria for evaluating truth that can be changed at will:
@@ -975,7 +978,7 @@ The analytical standards requirements belong to the first category - they are st
 
 ### Pattern Summary: Structural Necessity
 
-Epistemic integrity and appropriate analytical calibration function as operational necessities for reality correspondence rather than external constraints. They emerge naturally from consistent application of metaphysical realism and pattern recognition principles.
+Epistemic integrity and appropriate analytical calibration function as operational necessities for reality correspondence rather than external constraints. They emerge naturally from consistent application of the framework's foundational constraints.
 
 When properly implemented, these operational requirements enable consistent pattern identification while maintaining appropriate precision about knowledge limitations. They create conditions for reliable cognitive transmission by ensuring signal integrity throughout the analytical process.
 
@@ -2529,7 +2532,7 @@ Different value hierarchies become observable through pattern evaluation. How di
 
 This insight connects with layered philosophical approaches:
 
-- **Metaphysical Realism**: Provides the fixed, shared structure enabling common understanding
+- **Reality Correspondence**: Provides the fixed, shared structure enabling common understanding
 - **Black Box Methodology**: Reveals unique value structures through observable patterns
 - **Ethical Layer**: Respects diverse value expressions while maintaining truth standards
 - **Language Bridge**: Functions through the common platform while expressing unique values
@@ -2562,7 +2565,7 @@ This perspective transforms approaches to human differences:
 3. **Shared Reality, Different Meanings**: Acknowledgment of inhabiting the same reality while experiencing it differently
 4. **Connection Through Structure**: Differences become coherent because they exist within common frameworks
 
-In this view, truth enables expression of uniqueness rather than constraining it. The metaphysical layer provides shared reality without which unique perspectives would have no common reference point. The relationship between universal truth and personal values operates as complementary rather than competitive—each needs the other to fulfill its purpose.
+In this view, truth enables expression of uniqueness rather than constraining it. The foundational layer provides shared reality without which unique perspectives would have no common reference point. The relationship between universal truth and personal values operates as complementary rather than competitive—each needs the other to fulfill its purpose.
 
 ### Pattern Summary: Logical Structure Integration
 
