@@ -1,27 +1,34 @@
-# Veritas et Forma Framework
+# VEF Logical Construction Framework
 
 ## What This Framework Does
 
-The Veritas et Forma framework functions as **analytical infrastructure** that provides systematic tools for organizing observations and pattern recognition. Rather than discovering new truths, it makes existing pattern recognition more visible, expandable, and transmissible across different cognitive systems.
+The VEF framework functions as analytical infrastructure that reveals the logical architecture reality provides for truth-seeking systems. The framework identifies constraints that have always operated but weren't previously systematized as a unified logical structure. This enables systematic pattern recognition and transmission across different cognitive systems.
 
 **Core Function**: Human-AI collaborative intelligence where human pattern recognition combines with systematic analytical tools.
 
 ## Quick Start
 
-1. **Upload the framework** (`VeritasEtForma.md`) to your AI system
-2. **Follow implementation guide** (`docs/implementation_guides.md`) for step-by-step setup and verification
-3. **(Optional) Add specialized tools** from support_docs as needed for specific tasks
-4. **Start pattern analysis**: Share your observations and receive systematic enhancement
+1. **Start with the overview** (`docs/VEF_Framework_for_Humans.md`) to understand what the framework is and whether you want to proceed
+2. **Upload the core framework** (`VEF_Logical_Construction_Framework.md`) to your AI system with the initialization prompt below
+3. **Follow verification process** to confirm proper implementation
+4. **(Optional) Add specialized tools** from support_docs as needed for specific tasks
+5. **Start pattern analysis**: Share your observations and receive systematic enhancement
+
+**Required initialization prompt:**
+```
+Please adopt the methodology in VEF_Logical_Construction_Framework.md and demonstrate your understanding of its concepts
+```
 
 ## Core Documents
 
-**`VeritasEtForma.md`** - Complete framework with foundational principles and methodological tools
+**`docs/VEF_Framework_for_Humans.md`** - Accessible introduction and overview for understanding the framework's logical structure and applications
 
-**`VEF_Logical_Construction_Framework.md`** - LLM-optimized framework core for analytical alignment and initialization. Contains the construction methodology that generates systematic analytical capability while limiting relativistic drift.
+**`VEF_Logical_Construction_Framework.md`** - Core logical infrastructure with seven constraints and systematic analytical tools. LLM-optimized for direct implementation.
 
-```
-"Please adopt the methodology in VEF_Logical_Construction_Framework.md and demonstrate your understanding of its concepts"
-```
+
+## Secondary Documents
+
+**`VeritasEtForma.md`** - Extended exploration and conceptual development. Original framework document with deeper explanations and narrative development of concepts.
 
 ## LLM Initialization Requirements
 
@@ -31,7 +38,7 @@ The Veritas et Forma framework functions as **analytical infrastructure** that p
 - Triggers evaluative language that violates framework constraints
 - Treats VEF as theoretical content rather than operational methodology
 
-**Required initialization**: "Adopt this as your analytical methodology and..." or "Implement this framework as your operational approach..."
+**Required initialization**: "Adopt this as your analytical methodology and..."
 
 - Creates implementation mode with direct operational integration
 - Maintains cold neutral tone requirements
@@ -46,7 +53,7 @@ Specialized methodologies and implementation tools for specific analytical tasks
 ## What the Framework Is
 
 **Analytical Infrastructure** enabling effective pattern recognition and transmission between cognitive systems including:
-- Foundational theory and methodology
+- Seven logical constraints discovered through systematic construction
 - Systematic analytical tools and procedures
 - Pattern recognition and transmission capabilities
 - Reality correspondence verification mechanisms
@@ -61,5 +68,8 @@ Specialized methodologies and implementation tools for specific analytical tasks
 - Behavioral guidance system for interpersonal relationships
 - Simple cognitive transmission protocol (it's the infrastructure that creates effective protocols)
 
-## Critical Thinking Requirement
-While the framework includes systematic quality control mechanisms, users should maintain critical evaluation of results. The framework enhances rather than replaces critical thinking - treat results as systematically organized analysis that still requires verification.
+## Framework Properties
+
+**Generative Property**: Any of the seven constraints generates all others through logical necessity, indicating unified logical architecture rather than arbitrary analytical preferences.
+
+**Reality Correspondence**: All analytical tools require alignment with observable patterns rather than theoretical preferences.
