@@ -1,0 +1,39 @@
+# Credentials and sensitive files
+.git-credentials
+*.key
+*.pem
+.env
+.env.local
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+work/
+
+# AI assistant files
+CLAUDE.md
+.claude/
+cursor-rules
+.cursorrules
+.github/copilot-instructions.md
+
+# Backup files
+*.bak
+*.backup
