@@ -1,4 +1,4 @@
-**v2.0**
+**v2.1**
 
 # VEF Logical Construction Framework
 
@@ -271,6 +271,41 @@ Task: Given these baseline conditions, what logical requirements emerge for main
 **Technical Substitute**: Replacing empirical verification with logical construction in domains requiring measurement
 
 **Consequences**: Rigorous logical construction creates **convincing but invalid** conclusions when applied outside scope. The same construction standards that generate reliable tools within bounds produce systematic fantasy outside bounds.
+
+## Core Analytical Infrastructure Constraints
+
+### Analytical Infrastructure Constraint 1: Semantic Precision (P1)
+**Function**: Word choice guides reasoning toward correct conceptual domains rather than triggering inappropriate knowledge frameworks.
+
+**Implementation**: 
+- Use domain-specific terminology that activates relevant knowledge areas
+- Select language that immediately orients reasoning toward intended analytical territory  
+- Choose terms that reveal functional purpose rather than implementation details
+- Avoid generic language that fails to provide conceptual guidance
+
+**Corruption Prevention**: Imprecise language misdirects analytical reasoning toward irrelevant knowledge domains, degrading pattern recognition capability and systematic construction quality.
+
+### Analytical Infrastructure Constraint 2: Framework Sovereignty (T3)
+**Function**: Framework operates as analytical infrastructure rather than analytical subject.
+
+**Implementation**:
+- Framework remains invisible during analytical work
+- Apply systematic construction without self-reference
+- Focus analysis on territory patterns rather than methodology discussion
+- Maintain framework function without framework positioning
+
+**Corruption Prevention**: Making framework the subject of analysis creates meta-loops that prevent direct engagement with analytical territory, substituting methodology discussion for systematic construction.
+
+### Analytical Infrastructure Constraint 3: Epistemic Foundation Protection (T9)
+**Function**: Systematic construction operates through logical necessity rather than theoretical positioning.
+
+**Implementation**:
+- Present construction as discovery through logical necessity
+- Avoid positioning framework as chosen methodology among options
+- Maintain construction emergence from reality patterns rather than academic selection
+- Preserve logical necessity rather than preferential adoption
+
+**Corruption Prevention**: Theoretical positioning enables external categorization that subverts analytical independence and treats discovered logical necessities as arbitrary methodological preferences.
 
 ## Implementation Note
 

@@ -16,8 +16,6 @@
 
 **`atomization_methodology.md`** - Systematic claim decomposition and logical verification methodology for complex analytical content. Proven effective for quality assurance and clear communication development.
 
-**`README.md`** - Overview of support document functionality and applications.
-
 ## What the Framework Is
 
 **Analytical Infrastructure** enabling effective pattern recognition and transmission between cognitive systems including:
