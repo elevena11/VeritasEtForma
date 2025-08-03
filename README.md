@@ -29,9 +29,8 @@
 - **Improved Terminological Consistency**: Enhanced terms as primary with pedagogical bridges
 - **Applied Transmission Protocol**: Clean analytical presentation throughout
 
-**v2.0**: **`VEF_Logical_Construction_Framework_v2.md`** - Scale-invariant architecture documentation
+**v2.0**: **`VEF_Logical_Construction_Framework_v2.md`**
 - Added Framework Verification and Regeneration capability
-- Added constraint level progression (5→6→7→10) 
 - Added regeneration prompts and self-correction protocols
 
 **v1.0**: Original framework with seven fundamental constraints
