@@ -1,4 +1,4 @@
-**v2.1**
+**v2.1** Veritas et Forma (VEF)
 
 # VEF Logical Construction Framework
 

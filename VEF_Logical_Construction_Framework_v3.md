@@ -1,49 +1,41 @@
-**v2.0** Veritas et Forma (VEF)
+**v3.0** Veritas et Forma (VEF)
 
 # VEF Logical Construction Framework
 
-**Intended Audience**: LLM systems for human-LLM analytical collaboration  
-**Purpose**: Compressed reference framework enabling systematic pattern analysis  
-**Optimization Priority**: Analytical capability and logical precision over human readability
+## Foundation: Verification Rigor Requirement
 
-**Constraint Architecture Robustness**: Scale-invariant logical consistency maintains coherence whether applied at broad conceptual levels or detailed analytical levels. Different analytical approaches naturally operate with the logical structure at different levels of detail while maintaining systematic validity.
+**Core Standard**: Refuse to accept any unverified claims - demand systematic logical construction without shortcuts, undefined relationships, or verification hand-waving.
 
-Seven constraints operate through practical necessity encountered when maintaining rigorous logical construction across diverse analytical domains.
+**Construction Approach**: Like building systematic verification from basic logical principles, build analytical capability from minimal foundations through systematic necessity rather than convenient assumptions.
 
-## Foundation: Operational Constraint
+## Starting Point: Representation-Reality Distinction
 
-**Core Standard**: Refuse to pull anything out of "thin air" - demand rigorous logical construction without shortcuts, fuzzy bridging, or linguistic hand-waving.
+Boundary creation separates inclusion from exclusion zones. This creates a basic distinction: representation versus actual reality. This representation-reality relationship becomes the foundation for rigorous analytical construction.
 
-**Construction Approach**: Like ZF set theory building complex mathematics from the empty set, build analytical capability from minimal logical foundations through systematic necessity rather than convenient assumptions.
+**Initial Recognition**: Representations are distinct from reality itself - like the relationship between maps and the territory they represent. Confusing representations with reality leads to systematic analytical errors.
 
-## Starting Point: Map-Territory Distinction
+**Symbol Function Operation**: Representations contain symbols - words, labels, markers. Symbol function operates through boundary-setting. The symbol points to rather than contains the actual phenomenon. Symbol + boundary reveals that words function as both **references** (to reality) and **containers** (through systematic boundary definition).
 
-Boundary creation separates inclusion from exclusion zones. This creates a basic distinction: inside versus outside. This map-territory relationship becomes the foundation for rigorous analytical construction.
-
-**Initial Recognition**: Representations of reality (maps) are distinct from reality itself (territory). Confusing maps with territories leads to systematic analytical errors.
-
-**Symbol Function Operation**: Maps contain symbols - words, labels, markers. Symbol function operates through boundary-setting. The symbol is not the object itself. Symbol + circle reveals that words function as both **pointers** (to objects) and **containers** (through boundary function).
-
-**Operational Constraint Applied**: Refusing to accept fuzzy definitions about word function forces rigorous logical construction of how symbols actually operate rather than accepting convenient explanations.
+**Verification Rigor Applied**: Refusing to accept loose definitions about symbol function forces rigorous logical construction of how representations actually operate rather than accepting convenient explanations.
 
 ## Forced Logical Development
 
-When maintaining rigorous logical construction from map-territory distinction, refusing all shortcuts and fuzzy bridging:
+When maintaining rigorous verification standards from representation-reality distinction, refusing all shortcuts and loose methodology:
 
-### Step 1: Symbol Function Requirements
-**Logical Necessity**: Maps require symbols to function → symbols must point to rather than contain territory → words function as pointers to reality rather than reality containers.
+### Step 1: Reference Function Requirements
+**Logical Necessity**: Representations require symbols to function → symbols must reference rather than contain reality → words function as references to actual phenomena rather than phenomenon containers.
 
-Linguistic symbols demonstrate arbitrary sound-meaning relationships (any sound could work) showing that reality, not words, provides meaning.
+Linguistic symbol arbitrariness (any sound could work) demonstrates that reality, not words, provides actual meaning.
 
-### Step 2: Boundary Function Requirements  
-**Logical Necessity**: Pointers require boundaries to distinguish what they include from what they exclude → meaning emerges through systematic boundary-setting.
+### Step 2: Boundary Definition Requirements  
+**Logical Necessity**: References require boundaries to distinguish what they include from what they exclude → meaning emerges through systematic boundary-setting.
 
-Words create meaning by establishing boundaries that distinguish inclusion from exclusion through systematic exclusion functions.
+Words create precision by establishing boundaries that distinguish inclusion from exclusion through systematic exclusion functions.
 
 ### Step 3: Reality Correspondence Requirements
 **Logical Necessity**: Boundary validity requires external verification → reality must determine valid boundaries rather than arbitrary preference.
 
-Objective reality determines valid linguistic categories rather than language creating reality. Reality exists independently of observers and provides verification for all analytical claims.
+Objective reality determines valid categories rather than language creating reality. Reality exists independently of observers and provides verification for all analytical claims.
 
 ### Step 4: Pattern Structure Requirements
 **Logical Necessity**: Cross-contextual boundary validity requires structural consistency → similar patterns must appear across different systems.
@@ -59,14 +51,14 @@ Analytical systems require structural limitations to maintain consistency and fu
 
 Constraint architecture emerges through the constraint structure that rigorous logical construction demands:
 
-### 1. Map-Territory Distinction
+### 1. Representation-Reality Distinction
 **Constraint**: Representations require distinction from reality itself to prevent systematic analytical errors.
 
 ### 2. Reality Creates Words
 **Constraint**: Reality must determine word validity rather than words determining reality to maintain correspondence.
 
-### 3. Words as Pointers  
-**Constraint**: Language must point to reality rather than contain it to preserve meaning accuracy.
+### 3. Words as References  
+**Constraint**: Language must reference reality rather than contain it to preserve meaning accuracy.
 
 ### 4. Pattern Recognition Commonalities
 **Constraint**: Structural patterns must maintain cross-contextual consistency to enable reliable recognition.
@@ -82,11 +74,11 @@ Constraint architecture emerges through the constraint structure that rigorous l
 
 ## Mathematical Architecture
 
-Constraint architecture represents the minimal requirements for systematic pattern analysis across cognitive boundaries. All seven constraints must operate together simultaneously - the intersection (C₁ ∩ C₂ ∩ C₃ ∩ C₄ ∩ C₅ ∩ C₆ ∩ C₇) defines the space where systematic analysis functions reliably. 
+Constraint architecture represents the minimal requirements for systematic pattern analysis across cognitive boundaries. All seven constraints must operate together simultaneously - the intersection (C₁ ∩ C₂ ∩ C₃ ∩ C₄ ∩ C₅ ∩ C₆ ∩ C₇) defines the space where systematic analysis functions reliably.
 
 All constraints must be satisfied together, not just some combination of them. Violating any single constraint creates systematic breakdown through cascade effects.
 
-## Working Definitions for Set Operations
+## Working Definitions for Systematic Operations
 
 - **Observable**: Behaviors, statements, patterns accessible through direct observation
 - **Reality_Correspondence**: Alignment between claims and observable patterns
@@ -110,7 +102,7 @@ All constraints must be satisfied together, not just some combination of them. V
 - **Universal_Set**: Complete set of all possible elements in analytical context
 - **Valid_Claims**: Assertions that can be verified through observable evidence
 - **Claims**: Statements asserting something about reality
-- **Word_Meaning**: Conceptual content that words point to in reality
+- **Word_Meaning**: Conceptual content that words reference in reality
 - **Precision**: Clarity achieved through systematic boundary-setting
 - **Authority**: Legitimate basis for representation derived from contextual knowledge
 - **Valid_Representation**: Representation backed by both authority and reality correspondence
@@ -133,7 +125,7 @@ Definition:
 **Application**: Complete analytical field for communication pattern recognition
 
 ### **Black Box Methodology**
-(Objective Reality Independence + Framework Constraint Necessity + Map-Territory Distinction)
+(Objective Reality Independence + Framework Constraint Necessity + Representation-Reality Distinction)
 ```
 Generated_From: Constraint 5 ∩ Constraint 7 ∩ Constraint 1
 Definition:
@@ -144,7 +136,7 @@ Definition:
 **Application**: Systematic analysis respecting epistemic boundaries
 
 ### **Language as Exclusion Analysis**
-(Language Exclusion Function + Words as Pointers + Reality Creates Words)
+(Language Exclusion Function + Words as References + Reality Creates Words)
 ```
 Generated_From: Constraint 6 ∩ Constraint 3 ∩ Constraint 2
 Definition:
@@ -154,7 +146,7 @@ Definition:
 **Application**: Meaning verification through boundary-setting analysis
 
 ### **Authority and Representation Analysis**
-(Words as Pointers + Pattern Recognition + Reality Creates Words)
+(Words as References + Pattern Recognition + Reality Creates Words)
 ```
 Generated_From: Constraint 3 ∩ Constraint 4 ∩ Constraint 2
 Definition:
@@ -166,17 +158,17 @@ Definition:
 
 ## The Generative Property
 
-**Core Mechanism**: Logical construction necessity forces constraint discovery when maintaining rigorous logical construction (refusing shortcuts, demanding logical necessity) from any analytical starting point.
+**Core Mechanism**: Logical construction necessity forces constraint discovery when maintaining rigorous verification standards (refusing shortcuts, demanding logical necessity) from any analytical starting point.
 
 **Process**: Constraint interdependence creates logical pressure toward discovering others when logical rigor is maintained. Reality correspondence requirements provide directional pressure that guides construction toward the complete constraint pattern.
 
-Logical necessity forces recognition through systematic pressure rather than predetermined connection when starting with any constraint and maintaining logical construction standards.
+Logical necessity forces recognition through systematic pressure rather than predetermined connection when starting with any constraint and maintaining construction standards.
 
 ## Cross-Domain Pattern Correspondence
 
 Rigorous logical construction enables recognition of structural pattern equivalence across domains that have independently discovered the same underlying reality patterns through their respective methodologies.
 
-**Recognition Process**: Different domains may assign different conceptual labels to equivalent structural patterns. Logical construction analysis operates at the reality level that concepts point to rather than the linguistic level of the labels themselves.
+**Recognition Process**: Different domains may assign different conceptual labels to equivalent structural patterns. Logical construction analysis operates at the reality level that concepts reference rather than the linguistic level of the labels themselves.
 
 **Correspondence Examples**:
 - Engineering "system stability" ↔ Biology "homeostasis" (same self-regulation pattern, different labels)
@@ -184,9 +176,7 @@ Rigorous logical construction enables recognition of structural pattern equivale
 
 **Domain Boundaries Preserved**: Each domain maintains proper methodologies for domain-specific discovery. Pattern correspondence operates at structural level without replacing domain expertise.
 
-## Framework Verification and Regeneration
-
-### Scale-Invariant Architectural Progression
+## Scale-Invariant Architecture Progression
 
 Constraint discovery operates across different analytical resolution levels:
 
@@ -197,9 +187,9 @@ Constraint discovery operates across different analytical resolution levels:
 
 The 6-constraint level enables internal truth evaluation but cannot support reliable transmission between systems. Constraint 6 (Language Exclusion Function) emerges only when transmission requirements are added to truth-seeking goals.
 
-### Framework Regeneration Capability
+## Framework Regeneration Capability
 
-#### Complete Architecture Regeneration (7-Constraint Framework)
+### Complete Architecture Regeneration (7-Constraint Framework)
 
 ```
 Baseline Conditions:
@@ -216,26 +206,10 @@ Goals:
 Task: Given these baseline conditions and goals, what logical requirements must exist for reliable truth-seeking and successful transmission of findings to another human system? Systematically derive the necessities that arise from these conditions, focusing on how observations are represented and communicated to ensure alignment with reality. Derive these requirements without making assumptions beyond what is given.
 ```
 
-#### Internal Truth Evaluation (6-Constraint Capability)
-
-```
-Baseline Conditions:
-- Reality exists
-- Reality is consistent  
-- You are an aware human system capable of observing reality
-- Your observations of reality are distinct from reality itself
-- Your observations point to reality rather than being reality
-
-Goals:
-- Determine truth about reality
-
-Task: Given these baseline conditions, what logical requirements emerge for maintaining reliable observation-reality relationships? Systematically identify logical necessities without making assumptions beyond what is given.
-```
-
 ### Framework Integrity Verification
 
 **Corruption Detection Protocol**:
-1. Execute regeneration prompt using clean agent context
+1. Execute regeneration prompt using clean analytical context
 2. Compare generated requirements to documented constraint structure  
 3. Identify correspondence between discovered necessities and framework constraints
 
@@ -248,13 +222,13 @@ Task: Given these baseline conditions, what logical requirements emerge for main
 
 ## Scope Enforcement and Application Limits
 
-**Operational domains:**
+**Valid Applications**:
 - **Analytical construction**: Building analytical tools through logical necessity
 - **Pattern correspondence**: Recognizing structural equivalence across domains  
 - **Reality verification**: Testing claims against observable patterns
 - **Communication analysis**: Systematic evaluation of expression-action correspondence
 
-**Mandatory Scope Violations (Apply Other Methods):**
+**Mandatory Scope Violations (Apply Other Methods)**:
 
 **Material Phenomena**: Physical, chemical, biological domains require scientific methodology. Logical construction cannot substitute for empirical investigation.
 
@@ -266,7 +240,7 @@ Task: Given these baseline conditions, what logical requirements emerge for main
 
 **Universal Truth Discovery**: Treating logical construction as path to absolute knowledge rather than bounded analytical tool
 
-**Reality Construction**: Using framework to support "words create reality" rather than reality correspondence
+**Reality Construction**: Supporting "words create reality" rather than reality correspondence
 
 **Technical Substitute**: Replacing empirical verification with logical construction in domains requiring measurement
 
@@ -274,7 +248,7 @@ Task: Given these baseline conditions, what logical requirements emerge for main
 
 ## Implementation Note
 
-**Constraint architecture functions through:**
+**Constraint architecture functions through**:
 - Rigorous logical construction methodology
 - Reality correspondence verification standards  
 - Pattern recognition at structural rather than linguistic levels

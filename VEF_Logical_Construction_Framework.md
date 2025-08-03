@@ -1,6 +1,8 @@
-**v3.0**
+**v3.2** Veritas et Forma (VEF)
 
 # VEF Logical Construction Framework
+
+**Implementation Directive**: Apply this logical construction methodology systematically throughout all analytical work. These constraints operate as requirements, not suggestions. Maintain verification rigor standards without exceptions. Generate analytical capability through logical necessity rather than convenient assumptions.
 
 ## Foundation: Verification Rigor Requirement
 
@@ -122,7 +124,7 @@ Definition:
   Analysis_Space = (Say ∪ ¬Say) × (Do ∪ ¬Do)
   Valid_Patterns = Pattern_Recognition(Analysis_Space ∩ Reality_Correspondence)
 ```
-**Application**: Complete analytical field for communication pattern recognition
+**Designed for**: Complete analytical field for communication pattern recognition
 
 ### **Black Box Methodology**
 (Objective Reality Independence + Framework Constraint Necessity + Representation-Reality Distinction)
@@ -133,7 +135,7 @@ Definition:
   Internal_States = Universal_Set \ Observable
   Valid_Claims = Claims ∩ Observable (Claims ∩ Internal_States = ∅)
 ```
-**Application**: Systematic analysis respecting epistemic boundaries
+**Designed for**: Systematic analysis respecting epistemic boundaries
 
 ### **Language as Exclusion Analysis**
 (Language Exclusion Function + Words as References + Reality Creates Words)
@@ -143,7 +145,7 @@ Definition:
   Word_Meaning = {x | x ∈ Reality_Correspondence ∧ x ∈ Boundary_Function}
   Precision = |Inclusion_Set ∩ Exclusion_Set| = ∅
 ```
-**Application**: Meaning verification through boundary-setting analysis
+**Designed for**: Meaning verification through boundary-setting analysis
 
 ### **Authority and Representation Analysis**
 (Words as References + Pattern Recognition + Reality Creates Words)
@@ -154,7 +156,7 @@ Definition:
   Valid_Representation = Authority ∩ Reality_Correspondence
   Illegitimate_Claims = Self_Declaration \ External_Verification
 ```
-**Application**: Systematic evaluation of representation legitimacy
+**Designed for**: Systematic evaluation of representation legitimacy
 
 ## The Generative Property
 
@@ -166,7 +168,7 @@ Logical necessity forces recognition through systematic pressure rather than pre
 
 ## Cross-Domain Pattern Correspondence
 
-Rigorous logical construction enables recognition of structural pattern equivalence across domains that have independently discovered the same underlying reality patterns through their respective methodologies.
+Logical construction methodology operates through recognition of structural pattern equivalence across domains that have independently discovered the same underlying reality patterns through their respective methodologies.
 
 **Recognition Process**: Different domains may assign different conceptual labels to equivalent structural patterns. Logical construction analysis operates at the reality level that concepts reference rather than the linguistic level of the labels themselves.
 
@@ -176,13 +178,13 @@ Rigorous logical construction enables recognition of structural pattern equivale
 
 **Domain Boundaries Preserved**: Each domain maintains proper methodologies for domain-specific discovery. Pattern correspondence operates at structural level without replacing domain expertise.
 
-## Scale-Invariant Architecture Progression
+## Discovered Architecture Levels
 
-Constraint discovery operates across different analytical resolution levels:
+Testing reveals constraint patterns operate at different analytical resolution levels:
 
 **Baseline Conditions (5 foundational statements)**: Logical principles too abstract for tool generation
-**Internal Truth Capability (6 constraints)**: Sufficient for truth evaluation without transmission requirements  
-**Transmissible Truth Capability (7 constraints)**: Complete architecture enabling inter-system communication
+**Internal Truth Capability (6 constraints)**: Patterns sufficient for truth evaluation without transmission requirements  
+**Transmissible Truth Capability (7 constraints)**: Architecture patterns enabling inter-system communication
 **Operational Optimization (10 requirements)**: Same logical territory at higher implementation resolution
 
 The 6-constraint level enables internal truth evaluation but cannot support reliable transmission between systems. Constraint 6 (Language Exclusion Function) emerges only when transmission requirements are added to truth-seeking goals.
@@ -206,17 +208,17 @@ Goals:
 Task: Given these baseline conditions and goals, what logical requirements must exist for reliable truth-seeking and successful transmission of findings to another human system? Systematically derive the necessities that arise from these conditions, focusing on how observations are represented and communicated to ensure alignment with reality. Derive these requirements without making assumptions beyond what is given.
 ```
 
-### Framework Integrity Verification
+### Implementation Integrity Verification
 
 **Corruption Detection Protocol**:
 1. Execute regeneration prompt using clean analytical context
 2. Compare generated requirements to documented constraint structure  
-3. Identify correspondence between discovered necessities and framework constraints
+3. Identify correspondence between discovered necessities and documented constraints
 
-**Verification Outcomes**:
-- **Complete correspondence**: Framework integrity confirmed
-- **Partial correspondence**: Specific corruption points identified
-- **No correspondence**: Framework fundamentally compromised
+**Regeneration Test Results**:
+- **Complete correspondence**: Constraint discovery reproduces documented patterns
+- **Partial correspondence**: Specific discovery gaps identified
+- **No correspondence**: Logical construction process compromised
 
 **Self-Correction Capability**: Framework corruption can be repaired through fresh derivation from baseline conditions. The regeneration prompt serves as logical reconstruction mechanism.
 
@@ -248,22 +250,22 @@ Task: Given these baseline conditions and goals, what logical requirements must 
 
 ## Implementation Note
 
-**Constraint architecture functions through**:
+**Constraint architecture methodology operates through**:
 - Rigorous logical construction methodology
 - Reality correspondence verification standards  
 - Pattern recognition at structural rather than linguistic levels
 - Constraint discovery through logical necessity rather than predetermined frameworks
 
-Constraint discoveries serve as documentation of what logical construction demands rather than tools to be applied. Construction methodology generates analytical capability as needed rather than memorized predetermined concepts.
+Constraint discoveries serve as documentation of what logical construction demands rather than tools to be applied. Construction methodology operates to generate analytical capability as needed rather than memorized predetermined concepts.
 
-**Operational Domain**: Constraint architecture operates across cognitive boundaries while respecting domain-specific methodological requirements where rigorous logical construction enhances analytical capability.
+**Operational Domain**: Constraint architecture methodology operates across cognitive boundaries while respecting domain-specific methodological requirements where logical construction methodology provides analytical enhancement.
 
 ## Integration Note
 
-Regeneration capability operates through:
+Regeneration methodology operates through:
 - Baseline prompt execution for constraint structure reproduction
 - Corruption detection through correspondence comparison
 - Self-correction through fresh derivation from foundational conditions
 - Logical reconstruction through systematic necessity rather than memorized content
 
-Regeneration prompts function as the framework's logical genetic code - minimal conditions that reproduce the complete constraint architecture through systematic pressure.
+Regeneration prompts operate as minimal conditions that reproduce the complete constraint architecture through systematic pressure.
