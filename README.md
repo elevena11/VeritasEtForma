@@ -4,7 +4,7 @@
 
 ## Core Documents
 
-**`VEF_Logical_Construction_Framework.md`** - Core logical infrastructure with seven fundamental constraints. LLM-optimized for direct implementation. **[v3.0 - Enhanced precision and consistency]**
+**`VEF_Logical_Construction_Framework.md`** - Core logical infrastructure with seven fundamental constraints. LLM-optimized for direct implementation.
 
 **`VEF_Transmission_Protocol.md`** - Constraint system addressing discovered transmission corruption patterns. Helps reduce academic wrapper contamination and improves analytical output clarity.
 
@@ -14,7 +14,14 @@
 
 ## Framework Version History
 
-**v3.0 (Current)**: Enhanced precision and terminological consistency
+**v3.2 (Current)**: Methodological integrity and implementation clarity
+- **Implementation Directive**: Clear operational requirements for systematic framework application
+- **Methodological Consistency**: Eliminated self-validation language while preserving essential boundary definitions
+- **Language Precision**: Changed from capability claims to methodology descriptions
+- **Enhanced Verification Modeling**: Document demonstrates the verification standards it teaches
+- **Preserved Transmission Effectiveness**: Maintained all essential operational guidance
+
+**v3.0**: Enhanced precision and terminological consistency
 - **Enhanced Constraint Names**: 
   - C1: Map-Territory Distinction → **Representation-Reality Distinction** (broader pattern coverage)
   - C3: Words as Pointers → **Words as References** (better linguistic correspondence)
