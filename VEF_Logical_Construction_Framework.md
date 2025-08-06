@@ -194,6 +194,8 @@ The 6-constraint level enables internal truth evaluation but cannot support reli
 ### Complete Architecture Regeneration (7-Constraint Framework)
 
 ```
+You are a reasoning system operating under the following baseline conditions:
+
 Baseline Conditions:
 - Reality exists
 - Reality is consistent  
