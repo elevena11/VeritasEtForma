@@ -1,4 +1,4 @@
-**v3.2** Veritas et Forma (VEF)
+**v3.3** Veritas et Forma (VEF)
 
 # VEF Logical Construction Framework
 
@@ -10,7 +10,7 @@
 
 **Construction Approach**: Like building systematic verification from basic logical principles, build analytical capability from minimal foundations through systematic necessity rather than convenient assumptions.
 
-## Starting Point: Representation-Reality Distinction
+## Starting Point: Representation–Reality Distinction
 
 Boundary creation separates inclusion from exclusion zones. This creates a basic distinction: representation versus actual reality. This representation-reality relationship becomes the foundation for rigorous analytical construction.
 
@@ -53,7 +53,7 @@ Analytical systems require structural limitations to maintain consistency and fu
 
 Constraint architecture emerges through the constraint structure that rigorous logical construction demands:
 
-### 1. Representation-Reality Distinction
+### 1. Representation–Reality Distinction
 **Constraint**: Representations require distinction from reality itself to prevent systematic analytical errors.
 
 ### 2. Reality Creates Words
@@ -62,16 +62,16 @@ Constraint architecture emerges through the constraint structure that rigorous l
 ### 3. Words as References  
 **Constraint**: Language must reference reality rather than contain it to preserve meaning accuracy.
 
-### 4. Pattern Recognition Commonalities
+### 4. Pattern Stability
 **Constraint**: Structural patterns must maintain cross-contextual consistency to enable reliable recognition.
 
 ### 5. Objective Reality Independence
 **Constraint**: Reality must exist independently of observers to provide reliable verification mechanism.
 
-### 6. Language Exclusion Function
+### 6. Meaning Boundary Constraint
 **Constraint**: Meaning must emerge through systematic boundary-setting rather than arbitrary assignment.
 
-### 7. Framework Constraint Necessity
+### 7. Self-verifying Consistency
 **Constraint**: Analytical systems must maintain structural limitations to prevent logical drift.
 
 ## Mathematical Architecture
@@ -115,7 +115,7 @@ All constraints must be satisfied together, not just some combination of them. V
 When constraint discoveries combine through continued logical construction, they generate specific analytical tools:
 
 ### **2×2 Truth Table**
-(Pattern Recognition + Language Exclusion + Reality Creates Words)
+(Pattern Stability + Meaning Boundary Constraint + Reality Creates Words)
 ```
 Generated_From: Constraint 4 ∩ Constraint 6 ∩ Constraint 2
 Definition: 
@@ -127,7 +127,7 @@ Definition:
 **Designed for**: Complete analytical field for communication pattern recognition
 
 ### **Black Box Methodology**
-(Objective Reality Independence + Framework Constraint Necessity + Representation-Reality Distinction)
+(Objective Reality Independence + Self-verifying Consistency + Representation–Reality Distinction)
 ```
 Generated_From: Constraint 5 ∩ Constraint 7 ∩ Constraint 1
 Definition:
@@ -138,7 +138,7 @@ Definition:
 **Designed for**: Systematic analysis respecting epistemic boundaries
 
 ### **Language as Exclusion Analysis**
-(Language Exclusion Function + Words as References + Reality Creates Words)
+(Meaning Boundary Constraint + Words as References + Reality Creates Words)
 ```
 Generated_From: Constraint 6 ∩ Constraint 3 ∩ Constraint 2
 Definition:
@@ -148,7 +148,7 @@ Definition:
 **Designed for**: Meaning verification through boundary-setting analysis
 
 ### **Authority and Representation Analysis**
-(Words as References + Pattern Recognition + Reality Creates Words)
+(Words as References + Pattern Stability + Reality Creates Words)
 ```
 Generated_From: Constraint 3 ∩ Constraint 4 ∩ Constraint 2
 Definition:
@@ -187,7 +187,7 @@ Testing reveals constraint patterns operate at different analytical resolution l
 **Transmissible Truth Capability (7 constraints)**: Architecture patterns enabling inter-system communication
 **Operational Optimization (10 requirements)**: Same logical territory at higher implementation resolution
 
-The 6-constraint level enables internal truth evaluation but cannot support reliable transmission between systems. Constraint 6 (Language Exclusion Function) emerges only when transmission requirements are added to truth-seeking goals.
+The 6-constraint level enables internal truth evaluation but cannot support reliable transmission between systems. Constraint 6 (Meaning Boundary Constraint) emerges only when transmission requirements are added to truth-seeking goals.
 
 ## Framework Regeneration Capability
 
