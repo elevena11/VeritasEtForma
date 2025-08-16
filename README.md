@@ -14,7 +14,14 @@
 
 ## Framework Version History
 
-**v3.2 (Current)**: Methodological integrity and implementation clarity
+**v3.3 (Current)**: Enhanced constraint naming for improved clarity
+- **Refined Constraint Names**: 
+  - C4: → **Pattern Stability** (clearer constraint function)
+  - C6: → **Meaning Boundary Constraint** (more precise boundary definition)
+  - C7: → **Self-verifying Consistency** (enhanced clarity of verification function)
+- **Improved Terminological Precision**: Enhanced constraint naming for better systematic understanding
+
+**v3.2**: Methodological integrity and implementation clarity
 - **Implementation Directive**: Clear operational requirements for systematic framework application
 - **Methodological Consistency**: Eliminated self-validation language while preserving essential boundary definitions
 - **Language Precision**: Changed from capability claims to methodology descriptions
