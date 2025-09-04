@@ -12,9 +12,17 @@
 
 **`docs/transmission_protocol_guide.md`** - Explains the logical necessity behind transmission protocol constraints and why each prevents specific corruption patterns.
 
+**`Territory-First_Initialization.md`** - **Preferred initialization method** for VEF framework sessions. Territory-first approach for optimal analytical alignment.
+
 ## Framework Version History
 
-**v3.3 (Current)**: Enhanced constraint naming for improved clarity
+**v3.5 (Current)**: Territory-First initialization and enhanced pattern structure requirements
+- **Territory-First Initialization**: New preferred initialization method starting from baseline reality conditions
+- **Enhanced Pattern Structure**: Improved precision in cross-context pattern validity requirements
+- **Refined Context Definition**: Clear specification of bound, range-bounded, and inactive parts in pattern recognition
+- **Systematic Derivation**: Territory-first approach derives logical requirements from minimal baseline assumptions
+
+**v3.3**: Enhanced constraint naming for improved clarity
 - **Refined Constraint Names**: 
   - C4: → **Pattern Stability** (clearer constraint function)
   - C6: → **Meaning Boundary Constraint** (more precise boundary definition)

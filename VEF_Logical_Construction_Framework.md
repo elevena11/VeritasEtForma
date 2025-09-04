@@ -1,4 +1,4 @@
-**v3.3** Veritas et Forma (VEF)
+**v3.5** Veritas et Forma (VEF)
 
 # VEF Logical Construction Framework
 
@@ -40,9 +40,9 @@ Words create precision by establishing boundaries that distinguish inclusion fro
 Objective reality determines valid categories rather than language creating reality. Reality exists independently of observers and provides verification for all analytical claims.
 
 ### Step 4: Pattern Structure Requirements
-**Logical Necessity**: Cross-contextual boundary validity requires structural consistency → similar patterns must appear across different systems.
+**Logical Necessity**: Cross-context validity requires structural consistency: the same pattern must recur wherever its enabling setup is the same.
 
-Similar structural patterns appear across different systems and domains, revealing cross-contextual regularities that exist independently of recognition.
+Similar structural patterns appear across different systems and domains, revealing cross-context regularities that exist independently of recognition. A context is similar when all bound parts of the setup match and all range-bounded parts lie within their limits; inactive parts may vary. (Bound = fixed; Range-bounded = variable within stated limits; Inactive = does not affect the result.)
 
 ### Step 5: Constraint Requirements
 **Logical Necessity**: Maintaining logical construction requires systematic limitations to prevent arbitrary drift → analytical systems require structural constraints.
@@ -109,6 +109,22 @@ All constraints must be satisfied together, not just some combination of them. V
 - **Authority**: Legitimate basis for representation derived from contextual knowledge
 - **Valid_Representation**: Representation backed by both authority and reality correspondence
 - **Illegitimate_Claims**: Assertions lacking proper validation or authority basis
+
+### Pattern Extraction (structure + enabling setup)
+
+**What a pattern is**
+
+* **Structure:** the steps/relations that transform inputs → outputs.
+* **Enabling setup:** the pieces of setup that affect results: **when, where, with what, how, who**.
+
+**Classify each setup piece for this pattern**
+
+* **Bound** — must be this exact value (e.g., specific rig, pressure ≈ 1 atm).
+* **Range** — may vary within stated limits (e.g., 10–12 a.m.; 95–105 °C).
+* **Inactive** — can vary without changing the result.
+
+**Similar context (non-circular)**
+Use the rule above: bound must match, ranges stay inside limits, inactive may vary.
 
 ## Generated Analytical Tools
 
@@ -271,3 +287,15 @@ Regeneration methodology operates through:
 - Logical reconstruction through systematic necessity rather than memorized content
 
 Regeneration prompts operate as minimal conditions that reproduce the complete constraint architecture through systematic pressure.
+
+## Special Note on Transcendent References
+
+At the boundary of the 7 constraints, certain references appear that point beyond verification — for example, “infinity” or the notion of the “boundless.”
+
+The framework does not attempt to place these references *inside* its structure. To do so would be to introduce a self-referential authority claim, which would break the very pattern the framework preserves.
+
+Instead, such references are explicitly marked as **outside scope**. This preserves:
+- **C6 (Meaning Boundaries):** a clear line between what is inside the system and what is not.
+- **C7 (Self-verifying Consistency):** the system applies its own “no special pleading” rule to itself by refusing to smuggle in unverifiable absolutes.
+
+In practice: transcendent references are acknowledged, but not operationalized within the 7 constraints. From the inside, they appear as “infinite” or “boundless.” The framework remains consistent by admitting what it cannot contain.
