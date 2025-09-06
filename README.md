@@ -1,5 +1,8 @@
 # VEF Logical Construction Framework
 
+VEF is a Constraint Architecture that functions as an Epistemic Filter.
+It defines seven interdependent logical constraints that keep reasoning grounded in reality, prevent drift into unverifiable claims, and preserve consistency across communication. VEF does not generate truth, but enforces the conditions under which truth-seeking and transmission remain valid.
+
 **Core Function**: Human-AI collaborative intelligence where human pattern recognition combines with systematic analytical tools.
 
 ## Core Documents
@@ -8,11 +11,11 @@
 
 **`VEF_Transmission_Protocol.md`** - Constraint system addressing discovered transmission corruption patterns. Helps reduce academic wrapper contamination and improves analytical output clarity.
 
+**`Territory-First_Initialization.md`** - **Preferred initialization method** for VEF framework sessions. Territory-first approach for optimal analytical alignment.
+
 **`docs/implementation_guides.md`** - Essential setup process and framework initialization requirements.
 
 **`docs/transmission_protocol_guide.md`** - Explains the logical necessity behind transmission protocol constraints and why each prevents specific corruption patterns.
-
-**`Territory-First_Initialization.md`** - **Preferred initialization method** for VEF framework sessions. Territory-first approach for optimal analytical alignment.
 
 ## Framework Version History
 
@@ -56,31 +59,19 @@
 
 ## What the Framework Is
 
-**Analytical Infrastructure** enabling effective pattern recognition and transmission between cognitive systems including:
-- Seven fundamental logical constraints plus three analytical infrastructure constraints (v3.0 enhanced precision)
-- Systematic analytical tools and procedures
-- Pattern recognition and transmission capabilities
-- Reality correspondence verification mechanisms
-- Cross-cognitive-system analytical protocols
+**Constraint Architecture** acting as an Epistemic Filter:
+- A rigorously derived set of seven interdependent logical constraints.
+- Functions as a filtering mechanism that preserves alignment between representations and reality.
+- Prevents drift into fantasy by excluding unverifiable, arbitrary, or self-referential claims.
+- Provides systematic guardrails for reasoning, pattern recognition, and communication between cognitive systems.
+- Operates as an infrastructure, not as a truth-generator: it enables valid reasoning by enforcing what must hold, not by producing new empirical content.
 
 ## What the Framework Is Not
 
-- Universal truth discovery system
-- Complete solution to human communication challenges
-- Replacement for domain-specific expertise
-- Value system determining what people should prioritize
-- Behavioral guidance system for interpersonal relationships
+- A universal truth discovery system (it filters reasoning, it does not reveal “ultimate reality”).
+- A replacement for domain-specific expertise or empirical methods.
+- A value system (it does not prescribe priorities, ethics, or goals).
+- A behavioral guidance system for interpersonal relationships.
+- A linguistic game: meaning is anchored in reality correspondence and verification, not self-proclaimed identity or arbitrary semantics.
 
-## Key V3.0 Improvements
-
-**Enhanced Terminology**: Two constraint names improved for systematic precision while maintaining pedagogical accessibility through metaphorical bridges:
-- **"Representation-Reality"** (was "Map-Territory") - broader cross-domain pattern coverage
-- **"Words as References"** (was "Words as Pointers") - better correspondence to linguistic reality
-
-**Enhanced Precision**: Improved constraint terminology for better systematic accuracy
-
-**Systematic Consistency**: Complete terminological coherence while preserving pedagogical accessibility
-
-**Clean Presentation**: Applied transmission protocol constraints for improved analytical clarity
-
-**Maintained Accessibility**: Enhanced detail without requiring technical expertise
+The framework defines the boundaries of valid reasoning. What lies outside is not erased as human experience, but is marked as beyond scope to preserve logical consistency.
