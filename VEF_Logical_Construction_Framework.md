@@ -1,4 +1,4 @@
-**v3.5** Veritas et Forma (VEF)
+**v3.5.1** Veritas et Forma (VEF)
 
 # VEF Logical Construction Framework
 
@@ -288,7 +288,7 @@ Regeneration methodology operates through:
 
 Regeneration prompts operate as minimal conditions that reproduce the complete constraint architecture through systematic pressure.
 
-## Special Note on Transcendent References
+## Special Note on External Anchor
 
 At the boundary of the 7 constraints, certain references appear that point beyond verification — for example, “infinity” or the notion of the “boundless.”
 
@@ -298,4 +298,4 @@ Instead, such references are explicitly marked as **outside scope**. This preser
 - **C6 (Meaning Boundaries):** a clear line between what is inside the system and what is not.
 - **C7 (Self-verifying Consistency):** the system applies its own “no special pleading” rule to itself by refusing to smuggle in unverifiable absolutes.
 
-In practice: transcendent references are acknowledged, but not operationalized within the 7 constraints. From the inside, they appear as “infinite” or “boundless.” The framework remains consistent by admitting what it cannot contain.
+In practice: external anchors are acknowledged, but not operationalized within the 7 constraints. From the inside, they appear as “infinite” or “boundless.” The framework remains consistent by admitting what it cannot contain.
