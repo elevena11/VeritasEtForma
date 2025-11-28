@@ -7,19 +7,23 @@ It defines seven interdependent logical constraints that keep reasoning grounded
 
 ## Core Documents
 
-**`VEF_Logical_Construction_Framework.md`** - Core logical infrastructure with seven fundamental constraints. LLM-optimized for direct implementation.
+**`VEF_Logical_Construction_Framework.md`** - Core logical infrastructure with seven fundamental constraints.
 
 **`VEF_Transmission_Protocol.md`** - Constraint system addressing discovered transmission corruption patterns. Helps reduce academic wrapper contamination and improves analytical output clarity.
 
-**`Territory-First_Initialization.md`** - **Preferred initialization method** for VEF framework sessions. Territory-first approach for optimal analytical alignment.
-
-**`docs/implementation_guides.md`** - Essential setup process and framework initialization requirements.
+**`Init_Script_Adversarial.md`** - **Preferred initialization method** for VEF framework sessions. Adversarial initialization approach ensuring proper derivation and verification.
 
 **`docs/transmission_protocol_guide.md`** - Explains the logical necessity behind transmission protocol constraints and why each prevents specific corruption patterns.
 
 ## Framework Version History
 
-**v3.5 (Current)**: Territory-First initialization and enhanced pattern structure requirements
+**v3.6 (Current)**: Adversarial initialization and framework boundary refinement
+- **Adversarial Initialization**: New initialization script with enhanced derivation and verification approach
+- **Removed Prescriptive Scope Section**: Eliminated meta-guidance that could be misinterpreted as pre-defining application boundaries rather than letting operational reality determine them
+- **Misapplication Property**: Explicit acknowledgment that framework boundaries are revealed through operational reality
+- **Refined Framework Boundaries**: Clarified relationship between constraint architecture and meta-documentation
+
+**v3.5**: Territory-First initialization and enhanced pattern structure requirements
 - **Territory-First Initialization**: New preferred initialization method starting from baseline reality conditions
 - **Enhanced Pattern Structure**: Improved precision in cross-context pattern validity requirements
 - **Refined Context Definition**: Clear specification of bound, range-bounded, and inactive parts in pattern recognition
@@ -47,7 +51,7 @@ It defines seven interdependent logical constraints that keep reasoning grounded
 - **Improved Terminological Consistency**: Enhanced terms as primary with pedagogical bridges
 - **Applied Transmission Protocol**: Clean analytical presentation throughout
 
-**v2.0**: **`VEF_Logical_Construction_Framework_v2.md`**
+**v2.0**:
 - Added Framework Verification and Regeneration capability
 - Added regeneration prompts and self-correction protocols
 

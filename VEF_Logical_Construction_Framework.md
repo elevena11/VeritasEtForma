@@ -1,4 +1,5 @@
-**v3.5.1** Veritas et Forma (VEF)
+# VEF Logical Construction Framework v3.6 - Seven Constraint Architecture
+
 
 # VEF Logical Construction Framework
 
@@ -207,7 +208,7 @@ The 6-constraint level enables internal truth evaluation but cannot support reli
 
 ## Framework Regeneration Capability
 
-### Complete Architecture Regeneration (7-Constraint Framework)
+### Logical Structure Regeneration
 
 ```
 You are a reasoning system operating under the following baseline conditions:
@@ -240,32 +241,6 @@ Task: Given these baseline conditions and goals, what logical requirements must 
 
 **Self-Correction Capability**: Framework corruption can be repaired through fresh derivation from baseline conditions. The regeneration prompt serves as logical reconstruction mechanism.
 
-## Scope Enforcement and Application Limits
-
-**Valid Applications**:
-- **Analytical construction**: Building analytical tools through logical necessity
-- **Pattern correspondence**: Recognizing structural equivalence across domains  
-- **Reality verification**: Testing claims against observable patterns
-- **Communication analysis**: Systematic evaluation of expression-action correspondence
-
-**Mandatory Scope Violations (Apply Other Methods)**:
-
-**Material Phenomena**: Physical, chemical, biological domains require scientific methodology. Logical construction cannot substitute for empirical investigation.
-
-**Domain Expertise Requirements**: Specialized fields require technical knowledge. Pattern recognition cannot replace professional expertise.
-
-**Predictive Modeling**: Forecasting specific outcomes requires domain-specific modeling and empirical validation.
-
-### **Misapplications and Their Consequences:**
-
-**Universal Truth Discovery**: Treating logical construction as path to absolute knowledge rather than bounded analytical tool
-
-**Reality Construction**: Supporting "words create reality" rather than reality correspondence
-
-**Technical Substitute**: Replacing empirical verification with logical construction in domains requiring measurement
-
-**Consequences**: Rigorous logical construction creates **convincing but invalid** conclusions when applied outside scope. The same construction standards that generate reliable tools within bounds produce systematic fantasy outside bounds.
-
 ## Implementation Note
 
 **Constraint architecture methodology operates through**:
@@ -288,14 +263,16 @@ Regeneration methodology operates through:
 
 Regeneration prompts operate as minimal conditions that reproduce the complete constraint architecture through systematic pressure.
 
-## Special Note on External Anchor
+### Special Note on Framework Boundaries
 
-At the boundary of the 7 constraints, certain references appear that point beyond verification — for example, “infinity” or the notion of the “boundless.”
+**External Anchor**: At the boundary of the 7 constraints, certain references appear that point beyond verification — for example, "infinity" or the notion of the "boundless."
 
 The framework does not attempt to place these references *inside* its structure. To do so would be to introduce a self-referential authority claim, which would break the very pattern the framework preserves.
 
-Instead, such references are explicitly marked as **outside scope**. This preserves:
-- **C6 (Meaning Boundaries):** a clear line between what is inside the system and what is not.
-- **C7 (Self-verifying Consistency):** the system applies its own “no special pleading” rule to itself by refusing to smuggle in unverifiable absolutes.
+**Misapplication Property**: Similarly, the framework's rigorous construction standards generate **convincing but invalid** conclusions when extended beyond operational bounds. The same logical construction that produces reliable tools within scope produces systematic fantasy outside scope. The framework cannot police its own misapplication from within—operational reality must reveal the mismatch.
+
+This preserves:
+- **C6 (Meaning Boundaries):** a clear line between what is inside the system and what is not
+- **C7 (Self-verifying Consistency):** the system applies its own "no special pleading" rule to itself by refusing to smuggle in unverifiable absolutes or prescriptive boundaries
 
 In practice: external anchors are acknowledged, but not operationalized within the 7 constraints. From the inside, they appear as “infinite” or “boundless.” The framework remains consistent by admitting what it cannot contain.
